@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BAOSP Calc</string>
+    <string name="calc_display">Calculation result</string>
+    <string name="btn_0">0</string>
+    <string name="btn_1">1</string>
+    <string name="btn_2">2</string>
+    <string name="btn_3">3</string>
+    <string name="btn_4">4</string>
+    <string name="btn_5">5</string>
+    <string name="btn_6">6</string>
+    <string name="btn_7">7</string>
+    <string name="btn_8">8</string>
+    <string name="btn_9">9</string>
+    <string name="btn_dot">Decimal point</string>
+    <string name="btn_add">Plus</string>
+    <string name="btn_subtract">Minus</string>
+    <string name="btn_multiply">Times</string>
+    <string name="btn_divide">Divided by</string>
+    <string name="btn_equals">Equals</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_delete">Delete last digit</string>
+    <string name="btn_percent">Percent</string>
+    <string name="result_announcement">Result: %s</string>
+</resources>

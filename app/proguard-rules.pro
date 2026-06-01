@@ -1,0 +1,1 @@
+-keep class net.objecthunter.exp4j.** { *; }
